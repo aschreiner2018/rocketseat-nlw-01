@@ -16,9 +16,9 @@ Desenvolvido em ReactJS
 (Para testar) yarn start
 
 ## screenshots
-<img src="screenshot2.png" width="40%" height="40%">
-<img src="screenshot3.png" width="40%" height="40%">
-<img src="screenshot4.png" width="40%" height="40%">
+<img src="screenshot2.png" width="75%" height="75%">
+<img src="screenshot3.png" width="75%" height="75%">
+<img src="screenshot4.png" width="75%" height="75%">
 
 # mobile
 Desenvolvido em React Native
@@ -32,29 +32,52 @@ Desenvolvido em React Native
 
 ### Tecnologias e Bibliotecas utilizadas
 • TypeScript
+
 • Knex
+
 • SQLite
+
 • CORS
+
 • React-Icons (Feather Icons)
+
 • React-Router-DOM
+
 • Leaflet
+
 • React-Leaflet
+
 • Axios
+
 • Expo
+
 • Expo-Google-Fonts
+
 • Expo-Constants
+
 • Expo-React-Native-Maps
+
 • Expo-React-Native-Svg
+
 • Expo-Location
 • Expo-Mail-Composer
+
 • React-Navigation
+
 • React-Native-Gesture-Handler
+
 • React-Native-Reanimated
+
 • React-Native-Screens
+
 • React-Native-Safe-Area-Context
+
 • React-Native-Picker-Select
+
 • React-Dropzone
+
 • Masked-View
+
 • Multer
 • Yup
 • Celebrate
