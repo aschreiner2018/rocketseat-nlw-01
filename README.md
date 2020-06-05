@@ -2,7 +2,7 @@
 Projeto contruído durante o Next Level Week #01
 
 # Descritivo
-Trata de uma solução que é feito através de uma página Web o cadastro de pontos de coleta de resíduos e seus respectivos items. Também contempla um app Mobile onde se é informado no mapa pontos previamente cadastrados e que estejam próximos do local de acesso do app.
+Trata de uma solução (Ecoleta) que é feito através de uma página Web o cadastro de pontos de coleta de resíduos e seus respectivos items. Também contempla um app Mobile onde se é informado no mapa pontos previamente cadastrados e que estejam próximos do local de acesso do app.
 
 # backend
 Desenvolvido em NodeJS
@@ -18,6 +18,7 @@ Desenvolvido em ReactJS
 **(Para testar) yarn start
 
 ## screenshots
+<img src="screenshot0.png" width="100%" height="100%">
 <img src="screenshot2.png" width="100%" height="100%">
 <img src="screenshot3.png" width="100%" height="100%">
 <img src="screenshot4.png" width="100%" height="100%">
