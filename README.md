@@ -20,8 +20,8 @@ Desenvolvido em ReactJS
 ## screenshots
 <img src="screenshot2.png" width="100%" height="100%">
 <img src="screenshot0.png" width="100%" height="100%">
-<img src="screenshot3.png" width="100%" height="100%">
 <img src="screenshot4.png" width="100%" height="100%">
+<img src="screenshot3.png" width="100%" height="100%">
 
 # mobile
 Desenvolvido em React Native
