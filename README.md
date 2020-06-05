@@ -8,6 +8,7 @@ Trata de uma solução (Ecoleta) que é feito através de uma página Web o cada
 Desenvolvido em NodeJS
 
 **(Para testar) yarn dev
+(http://localhost:3333)
 
 ## screenshots
 <img src="screenshot1.png" width="100%" height="100%">
@@ -16,6 +17,7 @@ Desenvolvido em NodeJS
 Desenvolvido em ReactJS
 
 **(Para testar) yarn start
+(http://localhost:3000)
 
 ## screenshots
 <img src="screenshot2.png" width="100%" height="100%">
