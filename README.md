@@ -28,7 +28,7 @@ Desenvolvido em ReactJS
 # mobile
 Desenvolvido em React Native
 
-**(Para testar) yarn start
+**(Para testar: Expo) yarn start
 
 ## screenshots
 <img src="screenshot5.png" width="40%" height="40%">
