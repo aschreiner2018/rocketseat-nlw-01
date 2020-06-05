@@ -6,14 +6,16 @@ Trata de uma solução que é feito através de uma página Web o cadastro de po
 
 # backend
 Desenvolvido em NodeJS
-(Para testar) yarn dev
+
+**(Para testar) yarn dev
 
 ## screenshots
 <img src="screenshot1.png" width="100%" height="100%">
 
 # web
 Desenvolvido em ReactJS
-(Para testar) yarn start
+
+**(Para testar) yarn start
 
 ## screenshots
 <img src="screenshot2.png" width="100%" height="100%">
@@ -22,7 +24,8 @@ Desenvolvido em ReactJS
 
 # mobile
 Desenvolvido em React Native
-(Para testar) yarn start
+
+**(Para testar) yarn start
 
 ## screenshots
 <img src="screenshot5.png" width="40%" height="40%">
