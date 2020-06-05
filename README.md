@@ -9,7 +9,7 @@ Desenvolvido em NodeJS
 (Para testar) yarn dev
 
 ## screenshots
-<img src="screenshot1.png" width="40%" height="40%">
+<img src="screenshot1.png" width="75%" height="75%">
 
 # web
 Desenvolvido em ReactJS
@@ -60,6 +60,7 @@ Desenvolvido em React Native
 • Expo-React-Native-Svg
 
 • Expo-Location
+
 • Expo-Mail-Composer
 
 • React-Navigation
@@ -79,5 +80,7 @@ Desenvolvido em React Native
 • Masked-View
 
 • Multer
+
 • Yup
+
 • Celebrate
